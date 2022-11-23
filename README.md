@@ -49,8 +49,6 @@ Use of tailwind-based styles is preferred.
 
 <br>
 
-A Next.js starter that includes all you need to build amazing projects 🔥. Fork and customize from [jpedroschmitz](https://github.com/jpedroschmitz/typescript-nextjs-starter)
-
 - 🚀 **Next.js 12**
 - ⚙️ **Tailwind CSS 3** - A utility-first CSS framework
 - 🍓 **Styled Components** - Styling React component
@@ -62,32 +60,19 @@ A Next.js starter that includes all you need to build amazing projects 🔥. For
 
 ## 🚀 Getting started
 
-The best way to start with this template is using `create-next-app`.
-
-```
-npx create-next-app ts-next -e https://github.com/chhpt/nextjs-starter.git
-```
-
-If you prefer you can clone this repository and run the following commands inside the project folder:
+Please clone this repository and run the following commands inside the project folder:
 
 1. `npm install` or `yarn`;
 2. `yarn dev`;
 
 To view the project open `http://localhost:3000`.
 
-## 🤝 Contributing
+## 🤝 Submit Your Solution
 
-1. Fork this repository;
-2. Create your branch: `git checkout -b my-new-feature`;
-3. Commit your changes: `git commit -m 'Add some feature'`;
-4. Push to the branch: `git push origin my-new-feature`.
-
-**After your pull request is merged**, you can safely delete your branch.
+1. Fork this repository or create a feature branch off of master.
+2. Do all excercise related work on said branch.
+3. Submit a PR.
 
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
-
----
-
-Made with ♥ by Clare Chang
