@@ -14,6 +14,8 @@ const PERMISSION_FIXTURE_TWO: FieldPermission[] = [
   {key: 'firstName', edit: false},
   {key: 'lastName', edit: true},
   {key: 'lastName', edit: false},
+  {key: 'notes', edit: true},
+  {key: 'notes', edit: false},
   {key: 'email', edit: false},
   {key: 'isSubscribed', edit: false}
 ]

@@ -28,6 +28,12 @@ const FIELD_DEFINITIONS: FieldDefinition[] = [
     type: 'email',
   },
   {
+    key: 'notes',
+    label: 'Notes',
+    type: 'text',
+    rowSpan: 2,
+  },
+  {
     key: 'birthdate',
     label: 'Birthday',
     type: 'date',
